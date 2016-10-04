@@ -12,7 +12,7 @@ title-bold: Demo
 title-normal: por Aguara
 email: info@aguara.io
 description: Un blog responsive hecho en Jekyll y Siteleaf
-baseurl: demoelefante.github.io/
+baseurl: 
 url: 
 author: 
 street_address: Roque Centurion Miranda
