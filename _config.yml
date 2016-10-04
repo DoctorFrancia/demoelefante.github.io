@@ -8,20 +8,19 @@ collections:
   uploads:
     title: Uploads
     output: true
-title-bold: Forty
-title-normal: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under
-  the Creative Commons.
-baseurl: ''
-url: ''
+title-bold: Demo
+title-normal: por Aguara
+email: info@aguara.io
+description: Un blog responsive hecho en Jekyll y Siteleaf
+baseurl: 
+url: 
 author: 
-street_address: 1234 Somewhere Road
-city: Nashville
+street_address: Roque Centurion Miranda
+city: Asunción
 state: TN
 zip_code: 55555
-country: United States of America
-phone: "(716) 555-5555"
+country: Paraguay
+phone: "(0981)419-228"
 gems:
 - jekyll-sitemap
 - jekyll-seo-tag
@@ -35,16 +34,16 @@ github_url:
 gitlab_url: https://gitlab.com/u/andrewbanchich
 googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: 
 pinterest_url: 
 slack_url: 
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/martincubilla
 markdown: kramdown
 twitter:
-  username: andrewbanchich
+  username: martincubilla
 facebook:
   app_id: 
   publisher: 
   admins: 
-logo: 
+logo: "/uploads/2.jpg"
 google_site_verification: 
