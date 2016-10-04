@@ -1,7 +1,7 @@
 ---
 title: Nuevo Post
 date: 2016-10-04 18:43:00 Z
-layout: post
+layout: landing
 ---
 
 Post de Prueba de Siteleaf + Jekyll
